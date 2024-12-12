@@ -1,7 +1,6 @@
 # mmaTriviaPrivacyPolicy
-Privacy Policy for MMA Trivia App
 
-Privacy Policy 
+Privacy Policy for MMA Trivia App
 
 We value your privacy. This app does not collect, store, or share any personal information from its users. 
 
